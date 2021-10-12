@@ -5,9 +5,11 @@ J'ai codé un jeu qui la bataille de cartes en Java. On retrouve 3 classes. Une 
 
 Voici ce que cela m'affiche dans ma console, une fois que j'exécute le code. 
 
-![image](https://user-images.githubusercontent.com/90463820/136710092-f4e04a36-55df-442a-b9f0-b6e686403fa4.png)
-![image](https://user-images.githubusercontent.com/90463820/136710088-6276389f-b767-4f1d-8abe-47ab9e825dbf.png)
-![image](https://user-images.githubusercontent.com/90463820/136710081-427d08f3-f6fa-4bd1-8709-56d7dbd52c19.png)
+![image](https://user-images.githubusercontent.com/90463820/137025183-e3d5b2f6-95a8-476d-9364-9bf3586b88b2.png)
+![image](https://user-images.githubusercontent.com/90463820/137025178-89910725-ac5a-42cb-87af-c92d220e8a1d.png)
+![image](https://user-images.githubusercontent.com/90463820/137025162-e41ca536-e409-4b4e-afc9-886e4483dfd0.png)
+![image](https://user-images.githubusercontent.com/90463820/137025142-ad3cc18b-bebb-4e2c-940a-257ef58c0fc2.png)
+
 
 J'ai codé de façon à ce qu'il ait 8 tours et non qu'on attende à ce qu'un joueur perde toutes ses cartes car cela prend trop de temps. 
 J'ai laissé une ligne en commentaire pour montrer quelle serait la ligne à mettre à la place pour faire en sorte que les joueurs jouent une réelle partie de bataille. 
