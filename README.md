@@ -1,7 +1,7 @@
 # Bataille-de-cartes
 Bataille de cartes en Java
 
-J'ai codé un jeu qui la bataille de cartes en Java. On retrouve 3 classes. Une qui contient le jeu (bataille), la seconde permet de créer une carte (carte classe) et une autre pour créer un joueur (joueur classe). 
+J'ai codé un jeu qui est la bataille de cartes en Java. On retrouve 3 classes. Une qui contient le jeu (bataille), la seconde permet de créer une carte (carte classe) et une autre pour créer un joueur (joueur classe). 
 
 Voici ce que cela m'affiche dans ma console, une fois que j'exécute le code. 
 
@@ -11,7 +11,7 @@ Voici ce que cela m'affiche dans ma console, une fois que j'exécute le code.
 ![image](https://user-images.githubusercontent.com/90463820/137025142-ad3cc18b-bebb-4e2c-940a-257ef58c0fc2.png)
 
 
-J'ai codé de façon à ce qu'il ait 8 tours et non qu'on attende à ce qu'un joueur perde toutes ses cartes car cela prend trop de temps. 
+J'ai codé de façon à ce qu'il ait un certain nombre de tours et non qu'on attende à ce qu'un joueur perde toutes ses cartes car cela prend trop de temps. 
 J'ai laissé une ligne en commentaire pour montrer quelle serait la ligne à mettre à la place pour faire en sorte que les joueurs jouent une réelle partie de bataille. 
 
 
