@@ -5,10 +5,10 @@ J'ai codé un jeu qui est la bataille de cartes en Java. On retrouve 3 classes. 
 
 Voici ce que cela m'affiche dans ma console, une fois que j'exécute le code. 
 
-![image](https://user-images.githubusercontent.com/90463820/137025183-e3d5b2f6-95a8-476d-9364-9bf3586b88b2.png)
-![image](https://user-images.githubusercontent.com/90463820/137025178-89910725-ac5a-42cb-87af-c92d220e8a1d.png)
-![image](https://user-images.githubusercontent.com/90463820/137025162-e41ca536-e409-4b4e-afc9-886e4483dfd0.png)
-![image](https://user-images.githubusercontent.com/90463820/137025142-ad3cc18b-bebb-4e2c-940a-257ef58c0fc2.png)
+![image](https://user-images.githubusercontent.com/90463820/137030023-f6d0bc7c-b577-4c85-99ce-46b4619a3698.png)
+![image](https://user-images.githubusercontent.com/90463820/137030018-4c17c232-2a8d-47fb-bf9c-ad043108fef4.png)
+![image](https://user-images.githubusercontent.com/90463820/137030011-b285b217-65bd-4894-aded-17b8fabd4252.png)
+![image](https://user-images.githubusercontent.com/90463820/137029991-a617587a-bf93-4730-86a3-a38761a83cbc.png)
 
 
 J'ai codé de façon à ce qu'il ait un certain nombre de tours et non qu'on attende à ce qu'un joueur perde toutes ses cartes car cela prend trop de temps. 
