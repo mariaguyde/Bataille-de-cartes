@@ -1,5 +1,4 @@
-# Bataille-de-cartes
-Bataille de cartes en Java
+# Bataille de cartes en Java
 
 J'ai codé un jeu qui est la bataille de cartes en Java. On retrouve 3 classes. Une qui contient le jeu (bataille), la seconde permet de créer une carte (carte classe) et une autre pour créer un joueur (joueur classe). 
 
